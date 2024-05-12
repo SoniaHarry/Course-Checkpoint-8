@@ -1,3 +1,4 @@
+//modificacion desde test_rama2_rebase
 let miLista=["velma", "exploradora", "jane", "john", "harry"]; 
 
 //Cree un bucle for en JS que imprima cada nombre en esta lista. miLista = “velma”, “exploradora”, “jane”, “john”, “harry”
